@@ -15,4 +15,4 @@
     * Crear Mockup de Counters y crear diagrama de clases y de objetos
     * 3'40
     * Moqups y LucidChart
-    * (https://moqups.com/),(https://imgur.com/) y (https://www.lucidchart.com/)
+    * (https://moqups.com/)  (https://imgur.com/) y (https://www.lucidchart.com/)
