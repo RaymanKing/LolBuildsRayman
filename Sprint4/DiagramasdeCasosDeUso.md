@@ -22,7 +22,7 @@ Se muestra los datos del jugador pro player por pantalla.
 
 * Diagramas de casos de usos 2
 
-* ![Diagrama de casos de usos](https://i.imgur.com/SAPidwU.png "Diagrama de casos de usos")
+![Diagrama de casos de usos](https://i.imgur.com/SAPidwU.png "Diagrama de casos de usos")
 
 * Nombre: Buscar Counter
 * Autor: Enrique Rapela Castejón
