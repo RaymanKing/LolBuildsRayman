@@ -14,5 +14,12 @@
     * 06/05/2020
     * Crear Mockup de Counters y crear diagrama de clases y de objetos
     * 3'40
-    * Moqups y LucidChart
+    * Moqups , LucidChart y imgur
     * (https://moqups.com/)  (https://imgur.com/) y (https://www.lucidchart.com/)
+    ----------------------
+    * Sprint 3
+    * 12/05/2020
+    * Añadir las relaciones y cardinalidades a nuestro diagrama, y crear el proyecto Java
+    * 5'23
+    * LucidChart , imgur y eclipse
+    * (https://imgur.com/) , (https://www.lucidchart.com/) y (https://www.eclipse.org/downloads/)
