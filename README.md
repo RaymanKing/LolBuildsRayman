@@ -23,3 +23,10 @@
     * 5'23
     * LucidChart , imgur y eclipse
     * (https://imgur.com/) , (https://www.lucidchart.com/) y (https://www.eclipse.org/downloads/)
+    ----------------------
+    * Sprint 4
+    * 20/05/2020
+    * Crear dos diagramas de casos de uso con su ficha técnica
+    * 2'36
+    * LucidChart y imgur
+    * (https://imgur.com/) y (https://www.lucidchart.com/)
