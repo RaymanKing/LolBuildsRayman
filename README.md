@@ -30,3 +30,10 @@
     * 2'36
     * LucidChart y imgur
     * (https://imgur.com/) y (https://www.lucidchart.com/)
+    ----------------------
+    * Sprint 5
+    * 29/05/2020
+    * Crear dos diagramas de actividades
+    * 2'23
+    * LucidChart y imgur
+    * (https://imgur.com/) y (https://www.lucidchart.com/)
